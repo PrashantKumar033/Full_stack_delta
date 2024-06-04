@@ -1,0 +1,20 @@
+To set up the local environment
+
+there is two form to create react environment
+1.Create-react-app  and 2.vite(generate by fb in 2020(more effecient cause it is fast))
+
+to initialize vite run (npm create vite@latest)
+{if json file not created}
+then install all resorces to run inside the vite folder (npm install)
+
+then to run server (npm run dev)
+
+we write the react code in jsx(html in js) which is covert into js by (babel) in browser
+
+to not make any thing extra , we use the react fragment (<></>) to return group of content
+
+generally we will take the same name everywhere for an component to make css file of the component take same name as the component file and make the same name class(which div you are returning) in component and using the class property apply css on component 
+
+props -when we are passing the argument via tag then it call props Ex.- <paragraph title="home"/>
+and inside the file it acess as parameter like - Paragraph({title}) then use.
+we can also pass the array or object via argument as an variable or as values.

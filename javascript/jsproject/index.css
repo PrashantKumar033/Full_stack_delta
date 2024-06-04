@@ -1,0 +1,27 @@
+*{
+    background-image: url("joe-woods-4Zaq5xY5M_c-unsplash.jpg");
+}
+h2{ 
+    text-align: center;
+    justify-content: center;
+}
+#output,#image{
+    border: black solid 2px;
+    color: white;
+    border-radius: 25%;
+    background: rgb(9, 122, 126);
+    font-size:large;
+    margin-left: 45%;
+}
+
+P{
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+}
+div img{
+    width: 30%;
+    height: 20%;
+    padding:10px 30%;
+    size: cover;
+}

@@ -1,0 +1,11 @@
+.Paragraph {
+    border: 2px solid rgb(200, 189, 189);
+    color: aqua;
+    background-color: azure;
+    padding: 15px;
+    position: relative;
+    left: 50%;
+    text-align: center;
+    margin: 10px;
+    border-radius: 2.5rem;
+}
